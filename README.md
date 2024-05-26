@@ -1,6 +1,8 @@
 # nmrFit
 is a Matlab-based tool for analysis of nuclear magnetic resonance (NMR) spectra. The program allows to load a series of spectra, typically as a function of temperature, and then perform various analysis on the entire series.
 
+> The code has not been updated since 2014. There might be compatibility issues with the latest version of Matlab!
+
 ## Features
 - Automatic fast fourier transform with auto phase and auto SHL option.
 - Spectral moment analysis
