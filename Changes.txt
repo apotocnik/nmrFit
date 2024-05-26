@@ -1,0 +1,23 @@
+13.7.2014
+- removed bug when calculating chi2
+- removed phase correction on specter controls by setting visibility to false in the fft dialog
+- temporarly removed Kanizotropy+Lorentzian simulation functions
+- quadrupole simulation working also on 32bit systems?
+- equation for Kanizotropy corrected at the Kasy term. Now the definition is the same as in La2C3 paper.
+
+7.7.2014
+- Removed bug with Pointers
+- Removed bug with mFID
+- removed option show modified FID
+- removed option with Error in the moment analysis
+- removed old simulation functions
+- under simulations static variables are by default fixed
+
+5.5.2014
+- When set range correct also spcOld, or save fOld
+- added additional FFT options
+- LB is working correctly with DE option
+- added mFID
+
+9.1.2014: 
+- Show NSC instead of NS. Since NSC is actual number of scans and not only the setted one.
